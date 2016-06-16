@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WooplrDemo</string>
+
+    <string name="price_template">$ %d</string>
+
+    <!--Content Descriptions-->
+    <string name="desc_room_img">Room Image</string>
+</resources>
